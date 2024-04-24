@@ -1,0 +1,8 @@
+Para isntalar o JWT para autenticações na aplicação usando Node:
+	npm install jsonwebtoken
+	site:	https://jwt.io/libraries
+			https://www.npmjs.com/package/jsonwebtoken
+			
+			
+Para validar o token pode-se usar o site abaixo:
+	https://jwt.io/#debugger-io
